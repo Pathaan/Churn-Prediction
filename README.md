@@ -1,7 +1,7 @@
 # Churn-Prediction
-# Dataset link: https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling
+ Dataset link: https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling
 
-
+# Goal: 
 ![image](https://github.com/user-attachments/assets/f47f4605-deb3-4d8b-8666-2e66dd8b960d)
 
 ![image](https://github.com/user-attachments/assets/6a8dd073-43f9-4aad-a9a3-fa3a6c01224a)
